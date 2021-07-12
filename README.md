@@ -1,2 +1,2 @@
-# Men--vertical-por-puntos
+# Menú-vertical-por-puntos
 Sencilla página web con menú vertical
